@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mify\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\morio\\OneDrive\\Desktop\\New folder (3)\\PRT585_S2023_Group_7\\Md Hasan Al Mahmud_ S360863\\week 1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mify\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\morio\\OneDrive\\Desktop\\New folder (3)\\PRT585_S2023_Group_7\\Md Hasan Al Mahmud_ S360863\\week 1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mify\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\New folder (3)\\PRT585_S2023_Group_7\\Md Hasan Al Mahmud_ S360863\\week 1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "C:\\Users\\Mify\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
-        "packagesPath": "C:\\Users\\Mify\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mify\\source\\repos\\BlazorApp1\\BlazorApp1\\obj\\",
+        "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\New folder (3)\\PRT585_S2023_Group_7\\Md Hasan Al Mahmud_ S360863\\week 1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\New folder (3)\\PRT585_S2023_Group_7\\Md Hasan Al Mahmud_ S360863\\week 1\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mify\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {}
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
