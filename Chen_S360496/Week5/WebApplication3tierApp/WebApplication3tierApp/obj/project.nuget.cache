@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IfZbTHD9AmHJZNwO+DvsQ2QBmgag8lC72pMZcz2f5pxrzXgTysY6pwVCVw2olL3dMzVataeQ5/Ye7xZ+2VxIw==",
+  "dgSpecHash": "YpaYUPGsQ5UvNYiapki+T7JNa6euUvIuBPKWY3G0blG3oplnS+B0lljipKWQnzlx5LgViEJCE+tvM+Tzpg3rRQ==",
   "success": true,
-  "projectFilePath": "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
+  "projectFilePath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
   "expectedPackageFiles": [
     "/Users/chenchen/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/chenchen/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

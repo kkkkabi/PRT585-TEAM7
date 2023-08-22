@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj": {}
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj": {}
   },
   "projects": {
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
+        "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
         "projectName": "1CommonInfrastructure",
-        "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
+        "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
         "packagesPath": "/Users/chenchen/.nuget/packages/",
-        "outputPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/obj/",
+        "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chenchen/.nuget/NuGet/NuGet.Config"
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj",
         "projectName": "2DataAccessLayer",
-        "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj",
+        "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj",
         "packagesPath": "/Users/chenchen/.nuget/packages/",
-        "outputPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/",
+        "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chenchen/.nuget/NuGet/NuGet.Config"
@@ -103,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj"
               }
             }
           }
@@ -152,18 +152,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj": {
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj",
+        "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj",
         "projectName": "3BusinessLogicLayer",
-        "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj",
+        "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj",
         "packagesPath": "/Users/chenchen/.nuget/packages/",
-        "outputPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/",
+        "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chenchen/.nuget/NuGet/NuGet.Config"
@@ -179,11 +179,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj"
               },
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
               }
             }
           }
@@ -231,18 +231,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj": {
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj",
+        "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj",
         "projectName": "4Bootstrap",
-        "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj",
+        "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj",
         "packagesPath": "/Users/chenchen/.nuget/packages/",
-        "outputPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/obj/",
+        "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chenchen/.nuget/NuGet/NuGet.Config"
@@ -258,11 +258,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
               },
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/3BusinessLogicLayer/3BusinessLogicLayer.csproj"
               }
             }
           }
@@ -302,18 +302,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj": {
+    "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
+        "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
         "projectName": "WebApplication3tierApp",
-        "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
+        "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/WebApplication3tierApp.csproj",
         "packagesPath": "/Users/chenchen/.nuget/packages/",
-        "outputPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/WebApplication3tierApp/obj/",
+        "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/WebApplication3tierApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chenchen/.nuget/NuGet/NuGet.Config"
@@ -323,18 +323,18 @@
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/2DataAccessLayer/2DataAccessLayer.csproj"
               },
-              "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj": {
-                "projectPath": "/Users/chenchen/GitRepo/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj"
+              "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj": {
+                "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week5/WebApplication3tierApp/4Bootstrap/4Bootstrap.csproj"
               }
             }
           }
@@ -401,7 +401,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     }

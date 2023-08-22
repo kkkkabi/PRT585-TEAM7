@@ -28,7 +28,7 @@ namespace _1CommonInfrastructure.Services
 
         public void WriteLog(string keyArea, string message, object additionalInfo = null, Exception ex = null)
         {
-            var connectionString = "Server=chenchen.database.windows.net;Initial Catalog=PRT5852023;Integrated Security=False;User ID=chenchen;Password=Bowen_2018;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;";//_configuration.GetSection("ConnectionStrings:ApplicationDB");                    
+            var connectionString = "Server=;Initial Catalog=PRT5852023;Integrated Security=False;User ID=;Password=;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;";//_configuration.GetSection("ConnectionStrings:ApplicationDB");                    
 
             var columnOptions = new ColumnOptions
             {
