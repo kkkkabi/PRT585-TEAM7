@@ -28,7 +28,7 @@ namespace _1CommonInfrastructure.Services
 
         public void WriteLog(string keyArea, string message, object additionalInfo = null, Exception ex = null)
         {
-            var connectionString = "Server=s360233.database.windows.net;Initial Catalog=PRT5852023;Integrated Security=False;User ID=s360233;Password=!Cdu360233;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;";
+            var connectionString = "data source=.\\sqlexpress01;initial catalog=testdb27Sep22;integrated security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;";
                 //_configuration.GetSection("ConnectionStrings:ApplicationDB");//                    
 
             var columnOptions = new ColumnOptions
