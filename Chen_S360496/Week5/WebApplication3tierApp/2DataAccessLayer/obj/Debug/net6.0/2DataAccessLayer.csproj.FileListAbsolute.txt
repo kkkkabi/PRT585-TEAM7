@@ -1,0 +1,17 @@
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.deps.json
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.runtimeconfig.json
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/1CommonInfrastructure.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/1CommonInfrastructure.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.AssemblyReference.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.AssemblyInfoInputs.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.AssemblyInfo.cs
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.CopyComplete
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/refint/2DataAccessLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.genruntimeconfig.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/ref/2DataAccessLayer.dll

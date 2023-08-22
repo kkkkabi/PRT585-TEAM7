@@ -1,0 +1,17 @@
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/3BusinessLogicLayer.deps.json
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/3BusinessLogicLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/3BusinessLogicLayer.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/1CommonInfrastructure.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/2DataAccessLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/1CommonInfrastructure.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/bin/Debug/net6.0/2DataAccessLayer.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.csproj.AssemblyReference.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.AssemblyInfoInputs.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.AssemblyInfo.cs
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.csproj.CopyComplete
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/refint/3BusinessLogicLayer.dll
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/3BusinessLogicLayer.pdb
+/Users/chenchen/GitRepo/WebApplication3tierApp/3BusinessLogicLayer/obj/Debug/net6.0/ref/3BusinessLogicLayer.dll
