@@ -1,0 +1,17 @@
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.AssemblyReference.cache
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.AssemblyInfoInputs.cache
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.AssemblyInfo.cs
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.deps.json
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.runtimeconfig.json
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.dll
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/2DataAccessLayer.pdb
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/1CommonInfrastructure.dll
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/bin/Debug/net6.0/1CommonInfrastructure.pdb
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.csproj.CopyComplete
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.dll
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/refint/2DataAccessLayer.dll
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.pdb
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/2DataAccessLayer.genruntimeconfig.cache
+/Users/kabili/Projects/WebApplication3tierApp/2DataAccessLayer/obj/Debug/net6.0/ref/2DataAccessLayer.dll
