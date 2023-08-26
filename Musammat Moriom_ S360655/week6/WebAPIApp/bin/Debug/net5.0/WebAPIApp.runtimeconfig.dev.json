@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/kabili/.dotnet/store/|arch|/|tfm|",
-      "/Users/kabili/.nuget/packages"
-    ]
-  }
-}
