@@ -1,0 +1,15 @@
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/bin/Debug/net5.0/LOGIC.deps.json
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/bin/Debug/net5.0/LOGIC.dll
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/bin/Debug/net5.0/LOGIC.pdb
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/bin/Debug/net5.0/DAL.dll
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/bin/Debug/net5.0/DAL.pdb
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.csproj.AssemblyReference.cache
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.AssemblyInfoInputs.cache
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.AssemblyInfo.cs
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.csproj.CoreCompileInputs.cache
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.csproj.CopyComplete
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.dll
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/refint/LOGIC.dll
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/LOGIC.pdb
+/Users/kabili/Projects/LibraryAppCoreAppAngularNTierApp/LOGIC/obj/Debug/net5.0/ref/LOGIC.dll
