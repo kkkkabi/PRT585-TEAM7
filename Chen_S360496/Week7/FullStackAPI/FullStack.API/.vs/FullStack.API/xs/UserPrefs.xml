@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5C48582B-3A9D-45E5-A1B9-CB2391108431}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FullStack.API/Models/Employee.cs">
+    <Files>
+      <File FileName="FullStack.API/Models/Employee.cs" Line="15" Column="1" />
+      <File FileName="FullStack.API/Data/FullStackDbContext.cs" Line="1" Column="1" />
+      <File FileName="FullStack.API/Controllers/Models/eployee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FullStack.API" expanded="True">
+            <Node name="FullStack.API">
+              <Node name="Controllers" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="FullStackDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FullStack.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
