@@ -3163,25 +3163,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/kabili/.nuget/packages/": {}
+    "C:\\Users\\morio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
       "projectName": "1CommonInfrastructure",
-      "projectPath": "/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/1CommonInfrastructure.csproj",
-      "packagesPath": "/Users/kabili/.nuget/packages/",
-      "outputPath": "/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/",
+      "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+      "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kabili/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3237,7 +3238,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

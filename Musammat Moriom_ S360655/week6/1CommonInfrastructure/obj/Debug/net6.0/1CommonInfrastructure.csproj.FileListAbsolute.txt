@@ -1,12 +1,12 @@
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.deps.json
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.dll
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/bin/Debug/net6.0/1CommonInfrastructure.pdb
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.csproj.AssemblyReference.cache
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.AssemblyInfoInputs.cache
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.AssemblyInfo.cs
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.csproj.CoreCompileInputs.cache
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.dll
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/refint/1CommonInfrastructure.dll
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/1CommonInfrastructure.pdb
-/Users/kabili/Projects/WebApplication3tierApp/1CommonInfrastructure/obj/Debug/net6.0/ref/1CommonInfrastructure.dll
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.deps.json
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.dll
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.pdb
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.AssemblyReference.cache
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfoInputs.cache
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfo.cs
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.dll
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\refint\1CommonInfrastructure.dll
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.pdb
+C:\Users\morio\prt585\PRT585_S2023_Group_7\Musammat Moriom_ S360655\week6\1CommonInfrastructure\obj\Debug\net6.0\ref\1CommonInfrastructure.dll

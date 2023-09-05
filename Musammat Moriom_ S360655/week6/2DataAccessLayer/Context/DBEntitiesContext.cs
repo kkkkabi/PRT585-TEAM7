@@ -19,10 +19,12 @@ namespace _2DataAccessLayer.Context
         public DbSet<Movie> Movies { get; set; }
 
         public DbSet<Student> Students { get; set; }
+        public DbSet<Unit> Units { get; set; }
+
+
 
         public DbSet<Employee> Employees { get; set; }
 
-        public DbSet<Book> Books { get; set; }
 
         //security models
         public DbSet<UserAccount> UserAccounts { get; set; }
