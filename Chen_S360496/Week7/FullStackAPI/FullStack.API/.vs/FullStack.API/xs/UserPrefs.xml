@@ -1,21 +1,21 @@
 ﻿<Properties StartupConfiguration="{5C48582B-3A9D-45E5-A1B9-CB2391108431}|https">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FullStack.API/Models/Employee.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FullStack.API/appsettings.json">
     <Files>
-      <File FileName="FullStack.API/Models/Employee.cs" Line="15" Column="1" />
-      <File FileName="FullStack.API/Data/FullStackDbContext.cs" Line="1" Column="1" />
-      <File FileName="FullStack.API/Controllers/Models/eployee.cs" Line="1" Column="1" />
+      <File FileName="FullStack.API/Data/FullStackDbContext.cs" Line="13" Column="55" />
+      <File FileName="FullStack.API/appsettings.json" Line="16" Column="1" />
+      <File FileName="FullStack.API/Program.cs" Line="10" Column="99" />
+      <File FileName="FullStack.API/Migrations/20230904133919_InitialCreate2.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FullStack.API" expanded="True">
-            <Node name="FullStack.API">
-              <Node name="Controllers" expanded="True">
-                <Node name="Models" expanded="True" />
-              </Node>
-              <Node name="Data" expanded="True">
-                <Node name="FullStackDbContext.cs" selected="True" />
+          <Node name="FullStack.API">
+            <Node name="FullStack.API" selected="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20230904132614_InitialCreate.cs" expanded="True" />
+                <Node name="20230904133919_InitialCreate2.cs" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
             </Node>
