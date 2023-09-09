@@ -3940,11 +3940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morio\\prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+      "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week7\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
       "projectName": "FullStack.API",
-      "projectPath": "C:\\Users\\morio\\prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+      "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week7\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
       "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morio\\prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\FullStack API\\FullStack.API\\FullStack.API\\obj\\",
+      "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week7\\FullStack API\\FullStack.API\\FullStack.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",

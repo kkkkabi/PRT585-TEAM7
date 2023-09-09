@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<FullStackDbContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("FullStackConnectionString")));
+ options.UseSqlServer(builder.Configuration.GetConnectionString("FullStackConnectionString")));
 
 var app = builder.Build();
 
@@ -23,6 +23,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
 app.UseAuthorization();
 

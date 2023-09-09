@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFHYyHQjjlCwEKR5ZrnN9LxJanH/l0xvVuATAI8kXtPjJABXAPkKXJVbWZwdlLeBL0vMgDuLjTwE1ojxYVl9Mw==",
+  "dgSpecHash": "glCnmguYYze1ge6lLad2QE8SKFToyXcbKkrkNnqEbfLWYRMYnW6hNFJJ1nziB+gOKQKQl0J/46t7K4ApeprPCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\4Bootstrap\\4Bootstrap.csproj",
+  "projectFilePath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\4Bootstrap\\4Bootstrap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\morio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

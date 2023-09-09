@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8FQnX8izx5MJlTluIMWKbH7kTFzewE/uv+a2kKvBQeCd2w7iEQR4T41euN44jmpRBjzJWKQ3116eb0tAxh1dg==",
+  "dgSpecHash": "trpcok7gfqwTqPlhhMxxHy2Jc0Rce9KKr7PBlfomv1wCTQFdaGN1UvFgGMeO2ypFpuhzP8zv3/ZL4N5t5xzxZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morio\\prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+  "projectFilePath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week7\\FullStack API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\morio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

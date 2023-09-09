@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pm1UXdJ3PSmMJ3nhf6lDbZ5DjeHoRe6VTmKMGfbDu0v3QDJT+I55NYmh5ZyukikYBKWPpOGqjPacDOzYUrs2pw==",
+  "dgSpecHash": "7pEBTIsGIfbn/A/3xjdehsYPSVNH1HFoaSUl9ey/bNlr0CPKM3+WqGTXEq1Xh+jtZs3TRa7rjs/e4QXtzGfbfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\morio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

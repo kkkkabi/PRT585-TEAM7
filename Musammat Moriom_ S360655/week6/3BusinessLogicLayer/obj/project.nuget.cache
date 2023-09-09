@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkkVOeQWu5gAT6Oeb2+ygO+HRK7oIZ7/f5jSUWO9yFP7Eo8k8gcgghf4tzzn8X1dMIWS7i5FHsrRga4NVxudCg==",
+  "dgSpecHash": "TJbxBobfpLc7lxwX4cDDQ8EYI7G4LVsIyN5+V0GtbL79cJqk2iQQe85Vow+0CQYbeSazfZ8CaaxyKZmM0Fyy/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\morio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

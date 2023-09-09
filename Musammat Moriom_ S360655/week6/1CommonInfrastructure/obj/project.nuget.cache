@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3k4MCOyns2EH4hr844UkWz3AlkJmD6OWgom5iiGEHNdOr0HvQg0E1LRYa5MHbA0kN5LGB6gw0lKsubw++SP8Q==",
+  "dgSpecHash": "qLI/CPYEZbrvieG7Z2fTL9w2kIbBKad4J4a8EzRocf+NnCdo2MGNwVoAxlMFcMOUj7fmvLH7RjSNRO8ho6JWzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+  "projectFilePath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\morio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

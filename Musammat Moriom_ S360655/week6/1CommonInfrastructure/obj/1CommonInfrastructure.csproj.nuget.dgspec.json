@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {}
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
         "projectName": "1CommonInfrastructure",
-        "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
         "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",

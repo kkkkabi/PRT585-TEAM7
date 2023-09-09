@@ -9,6 +9,7 @@ namespace FullStack.API.Data
 
         public FullStackDbContext(DbContextOptions options) : base(options)
         {
+        
         }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj": {}
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
         "projectName": "1CommonInfrastructure",
-        "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
         "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
         "projectName": "2DataAccessLayer",
-        "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
-                "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj"
+              "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj": {
+    "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
         "projectName": "3BusinessLogicLayer",
-        "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\3BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\3BusinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\3BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,11 +182,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
-                "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj"
+              "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\1CommonInfrastructure\\1CommonInfrastructure.csproj"
               },
-              "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj"
+              "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj"
               }
             }
           }

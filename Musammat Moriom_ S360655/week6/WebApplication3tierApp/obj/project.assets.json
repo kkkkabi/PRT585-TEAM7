@@ -4266,11 +4266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\WebApplication3tierApp\\WebApplication3tierApp.csproj",
+      "projectUniqueName": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\WebApplication3tierApp\\WebApplication3tierApp.csproj",
       "projectName": "WebApplication3tierApp",
-      "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\WebApplication3tierApp\\WebApplication3tierApp.csproj",
+      "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\WebApplication3tierApp\\WebApplication3tierApp.csproj",
       "packagesPath": "C:\\Users\\morio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\WebApplication3tierApp\\obj\\",
+      "outputPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\WebApplication3tierApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\morio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4287,11 +4287,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj"
+            "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\2DataAccessLayer\\2DataAccessLayer.csproj"
             },
-            "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\4Bootstrap\\4Bootstrap.csproj": {
-              "projectPath": "C:\\Users\\morio\\OneDrive\\Desktop\\week6\\4Bootstrap\\4Bootstrap.csproj"
+            "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\4Bootstrap\\4Bootstrap.csproj": {
+              "projectPath": "C:\\Users\\morio\\Prt585\\PRT585_S2023_Group_7\\Musammat Moriom_ S360655\\week6\\4Bootstrap\\4Bootstrap.csproj"
             }
           }
         }
