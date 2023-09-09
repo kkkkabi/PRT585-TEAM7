@@ -12,8 +12,8 @@ using _2DataAccessLayer.Context;
 namespace _2DataAccessLayer.Migrations
 {
     [DbContext(typeof(DBEntitiesContext))]
-    [Migration("20230902131014_First")]
-    partial class First
+    [Migration("20230904045450_create Unit table")]
+    partial class createUnittable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -124,6 +124,23 @@ namespace _2DataAccessLayer.Migrations
                     b.HasKey("SystemActionID");
 
                     b.ToTable("SystemActions");
+                });
+
+            modelBuilder.Entity("_2DataAccessLayer.Context.Models.Unit", b =>
+                {
+                    b.Property<int>("UnitId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UnitId"), 1L, 1);
+
+                    b.Property<string>("UnitName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UnitId");
+
+                    b.ToTable("Unit");
                 });
 
             modelBuilder.Entity("_2DataAccessLayer.Context.Models.UserAccount", b =>

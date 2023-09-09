@@ -1,0 +1,32 @@
+<div class="continer my-5"> <!--my means add margin 5 in both top and bottom-->
+    <!--Add header, mb = margin bottom is 3-->
+    <h1 class=mb-3>Employees</h1>
+
+    <!--show this table if -->
+    <table class="table" *ngIf= "employees && employees.length>0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Salary</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!--get the data by looping the employee list array-->
+            <!--Let x of y, loop in the y, y has to be in component.ts file-->
+            <tr *ngFor = "let Employee of employees">
+                <td>{{Employee.id}}</td>
+                <td>{{Employee.name}}</td>
+                <td>{{Employee.email}}</td>
+                <td>{{Employee.phone}}</td>
+                <td>{{Employee.salary}}</td>
+                <td>{{Employee.department}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <!--add a pragraph if there is no list of employees or no data in the list-->
+<p *ngIf = "!employees || employees.length <=0" > No Employees Found </p>
+</div>
