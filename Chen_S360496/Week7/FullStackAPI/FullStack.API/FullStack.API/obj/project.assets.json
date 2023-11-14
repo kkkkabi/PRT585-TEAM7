@@ -3461,26 +3461,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/chenchen/.nuget/packages/": {}
+    "C:\\Users\\chenc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week7/FullStackAPI/FullStack.API/FullStack.API/FullStack.API.csproj",
+      "projectUniqueName": "C:\\Users\\chenc\\Music\\PRT585_S2023_Group_7\\Chen_S360496\\Week7\\FullStackAPI\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
       "projectName": "FullStack.API",
-      "projectPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week7/FullStackAPI/FullStack.API/FullStack.API/FullStack.API.csproj",
-      "packagesPath": "/Users/chenchen/.nuget/packages/",
-      "outputPath": "/Users/chenchen/GitRepo/PRT585_S2023_Group_7/Chen_S360496/Week7/FullStackAPI/FullStack.API/FullStack.API/obj/",
+      "projectPath": "C:\\Users\\chenc\\Music\\PRT585_S2023_Group_7\\Chen_S360496\\Week7\\FullStackAPI\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+      "packagesPath": "C:\\Users\\chenc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chenc\\Music\\PRT585_S2023_Group_7\\Chen_S360496\\Week7\\FullStackAPI\\FullStack.API\\FullStack.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chenchen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\chenc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3529,7 +3529,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
